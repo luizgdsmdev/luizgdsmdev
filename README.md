@@ -59,6 +59,9 @@ Git · SQL · AWS (basic) · Microservices (learning) · DevOps mindset · Perfo
 
 ### 📊 Statistics
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=luizgdsmdev&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=luizgdsmdev&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgdsmdev\&layout=compact\&theme=radical\&hide_border=true)
 
 ---
