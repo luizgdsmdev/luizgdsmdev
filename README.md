@@ -1,5 +1,5 @@
 # Luiz Messias
-####  **Software Engineer | Java | SpringBoot | React** 
+####  **Software Engineer | Java | SpringBoot | React | AWS** 
 Currently pursuing a **Bachelor’s Degree in Software Engineering at UFBRA**, while preparing for **AWS and Java Professional certifications**.
 Strategic transition to technology in 2019. Since then, I have been delivering robust solutions with real impact on business metrics and user experience.
 
