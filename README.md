@@ -36,7 +36,7 @@ Git · SQL · AWS (basic) · Microservices (learning) · DevOps mindset · Perfo
 
 **Backend Node / Java / Spring**
 
-* [Note taking](https://github.com/luizgdsmdev/react-studies-project-01-note-taking) — A modern, full-stack note-taking application built with the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates best practices in REST API design, real-time data synchronization, and responsive UI development.
+* [Note-Taking App](https://github.com/luizgdsmdev/react-studies-project-01-note-taking) — A modern, full-stack note-taking application built with the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates best practices in REST API design, real-time data synchronization, and responsive UI development.
 * [Rede Vida](https://github.com/luizgdsmdev/rede-vida-project) — Social project for blood donors, developed as the final project for an AWS course.
 * [Java Full-Stack with React & Spring Boot](https://github.com/luizgdsmdev/Java-Full-Stack-Developer-with-React-Spring-Boot) — Full-stack course project featuring a complete online store (frontend and backend) with Stripe payment integration.
 * [Java Challenges](https://github.com/luizgdsmdev/java-challenges) — Real-world job challenges solved using Spring Boot, testing, and best practices.
@@ -45,7 +45,7 @@ Git · SQL · AWS (basic) · Microservices (learning) · DevOps mindset · Perfo
 
 **Frontend / JavaScript / React / HTML**
 
-* [Note taking](https://github.com/luizgdsmdev/react-studies-project-01-note-taking) — A modern, full-stack note-taking application built with the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates best practices in REST API design, real-time data synchronization, and responsive UI development.
+* [Note-Taking App](https://github.com/luizgdsmdev/react-studies-project-01-note-taking) — A modern, full-stack note-taking application built with the MERN stack (MongoDB, Express, React, and Node.js). This project demonstrates best practices in REST API design, real-time data synchronization, and responsive UI development.
 * [Rede Vida](https://github.com/luizgdsmdev/rede-vida-project) — Social project for blood donors, developed as the final project for an AWS course.
 * [Java Full-Stack with React & Spring Boot](https://github.com/luizgdsmdev/Java-Full-Stack-Developer-with-React-Spring-Boot) — Full-stack course project with React and Spring Boot, featuring a complete e-commerce application.
 * [Challenge 5: HBO](https://github.com/luizgdsmdev/challenge-5-HBO-css-javascript) — HBO Max interface clone using HTML, CSS, and JavaScript.
